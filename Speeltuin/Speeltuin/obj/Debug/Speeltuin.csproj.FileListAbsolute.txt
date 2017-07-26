@@ -1,0 +1,6 @@
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\bin\Debug\Speeltuin.exe.config
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\bin\Debug\Speeltuin.exe
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\bin\Debug\Speeltuin.pdb
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\obj\Debug\Speeltuin.csprojResolveAssemblyReference.cache
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\obj\Debug\Speeltuin.exe
+c:\git\CsharpSpeeltuin\Speeltuin\Speeltuin\obj\Debug\Speeltuin.pdb
